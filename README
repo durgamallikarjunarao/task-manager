@@ -1,0 +1,8 @@
+Project Title: Task Manager API
+
+Description: following apis are implemented in current project
+		- GET(/tasks) : fetch all tasks
+		- GET(/tasks/:id): fetch specified task else returns Invalid
+		- POST(/tasks): post new task to task manager list
+		- PUT(/tasks/:id): update specified task
+		- DELETE(/tasks/:id): delete specified task
